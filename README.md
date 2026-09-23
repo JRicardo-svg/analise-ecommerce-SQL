@@ -149,9 +149,3 @@ Parte deste projeto foi desenvolvida com apoio de um assistente de IA (Claude), 
 - Auxílio pontual na escrita do tratamento de duplicatas no script de ETL
 
 A decisão de modelagem de cada tabela, a escrita da maior parte do SQL e Python, o encontro de erros e a interpretação dos resultados foram feitas por mim, com o assistente atuando como um copilot para ajuda e estudo — meu primeiro projeto de banco de dados relacional construído do zero.
-
-## 📌 Próximos passos
-
-- [ ] Visualizações gráficas dos resultados (matplotlib/seaborn)
-- [ ] Query de segmentação de clientes (RFM)
-- [ ] Publicação dos insights no LinkedIn
